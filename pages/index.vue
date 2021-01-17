@@ -7,7 +7,7 @@
       <Logo />
       <h1 class="title">Nuxt-base-static</h1>
       <span style="font-size: 20px; padding: 6px" class="title"
-        >(simple demo base-comfiguration)</span
+        >(simple demo base-configuration)</span
       >
       <span style="font-size: 20px" class="title"
         >Provided by Ernesto M. Pinto visit:
